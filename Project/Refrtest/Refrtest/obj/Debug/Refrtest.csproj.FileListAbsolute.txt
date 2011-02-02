@@ -1,0 +1,16 @@
+D:\Refrtest\Refrtest\obj\Debug\ResolveAssemblyReference.cache
+D:\Refrtest\Refrtest\obj\Debug\Refrtest.Form1.resources
+D:\Refrtest\Refrtest\obj\Debug\Refrtest.Properties.Resources.resources
+D:\Refrtest\Refrtest\obj\Debug\Refrtest.csproj.GenerateResource.Cache
+D:\Refrtest\Refrtest\bin\Debug\Refrtest.exe
+D:\Refrtest\Refrtest\bin\Debug\Refrtest.pdb
+D:\Refrtest\Refrtest\obj\Debug\Refrtest.exe
+D:\Refrtest\Refrtest\obj\Debug\Refrtest.pdb
+C:\Users\Костя\Desktop\Программы\Refrtest\Refrtest\obj\Debug\Refrtest.exe
+C:\Users\Костя\Desktop\Программы\Refrtest\Refrtest\obj\Debug\Refrtest.pdb
+C:\Users\Костя\Desktop\Программы\Refrtest\Refrtest\bin\Debug\Refrtest.exe
+C:\Users\Костя\Desktop\Программы\Refrtest\Refrtest\bin\Debug\Refrtest.pdb
+C:\Users\Костя\Desktop\Программы\Refrtest\Refrtest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Костя\Desktop\Программы\Refrtest\Refrtest\obj\Debug\Refrtest.Form1.resources
+C:\Users\Костя\Desktop\Программы\Refrtest\Refrtest\obj\Debug\Refrtest.Properties.Resources.resources
+C:\Users\Костя\Desktop\Программы\Refrtest\Refrtest\obj\Debug\Refrtest.csproj.GenerateResource.Cache

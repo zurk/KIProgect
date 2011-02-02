@@ -1,0 +1,48 @@
+---|PROJECT_DATA|---
+*GEOMETRY
+{
+   *ROOM
+   {
+      *TYPE:SimpleQuad
+      *VERTEX_COUNT: 8
+      *MESH_VERTEX_LIST
+         {
+            X:0   Y:2   Z:0
+            X:0   Y:0   Z:0
+            X:20   Y:2   Z:0
+            X:20   Y:0   Z:0
+            X:20   Y:2   Z:20
+            X:20   Y:0   Z:20
+            X:0   Y:2   Z:20
+            X:0   Y:0   Z:20
+         }
+         *ROOM_COVER
+         {
+            *WALLS:Кирпич
+            *COEFFICIENTS:0,02 0,03 0,03 0,04 0,05 0,05 0,06 
+         }
+   }
+   *SOUND_SOURCE
+   {
+      *POSITION
+      {
+         X:5,5   Z:6
+      }
+   }
+}
+*PARAMETRS
+{
+   *SELECTED_OS:0
+   *CURRENT_OBJECT:0
+   *CURRENT_SOUND_SOURCE:0
+   *FOCUS:1
+   *WAVES_COUNT:100
+   *ENERGY_LIMIT:0
+   *KNOTS_COUNT_X:7
+   *KNOTS_COUNT_Z:7
+   *RENDER_MODE:0
+   *SIGNAL_TO_PLAY:1
+   *KNOT_COORD_X:1
+   *KNOT_COORD_Z:1
+   *WAV_FILE_NAME:C:\Users\Костя\Desktop\Программы\SoundProcessing\SoundProcessing\Input\Sound.wav
+}
